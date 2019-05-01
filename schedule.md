@@ -12,6 +12,8 @@ https://1drv.ms/u/s!Ap56hcfCXnZXghatL_y35zjQGTvx <br>
 4. 抽樣分布與中央極限定理
 5. 單樣本假設檢定
 6. 雙樣本假設檢定
+http://rpubs.com/hungkai/two_sample_test   
+
 7. 製作列聯表、卡方檢定
 8. 變異數分析
 9. 迴歸分析
@@ -30,5 +32,5 @@ https://1drv.ms/u/s!Ap56hcfCXnZXghatL_y35zjQGTvx <br>
 * 簡介 https://dspim.github.io/A1-basic-data-analysis/
 * 更多語法 https://bookdown.org/tpemartin/rmarkdown_intro/
 * 樣板檔 https://github.com/sltzeng/2019SMath316SL/blob/master/template.txt <br>
-  或 https://notepad.pw/xzc1cb1b
-
+  或 https://notepad.pw/xzc1cb1b   
+* HTML檔上傳4步教學: http://rpubs.com/hungkai/get_URL
